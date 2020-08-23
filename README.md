@@ -10,9 +10,7 @@ It includes the full discography of a legendary Ukrainian rock band Skryabin (An
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_XXX.png" width="360" height="640"> 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_YYY.png" width="360" height="640"> 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_ZZZ.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/kuzma-skryabin/master/screenshots/Screenshot_1598172576.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/kuzma-skryabin/master/screenshots/Screenshot_1598172586.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/kuzma-skryabin/master/screenshots/Screenshot_1598172780.png" width="360" height="640">
 
 ## Privacy policy
 
